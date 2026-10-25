@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "faygolover.s5adv.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "s5adv.refmap.json",
+  "mixins": [
+    "ServerAdvancementManagerMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

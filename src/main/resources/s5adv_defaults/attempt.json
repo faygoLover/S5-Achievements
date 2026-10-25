@@ -1,0 +1,8 @@
+{
+  "display": {
+    "icon": { "item": "minecraft:wither_rose" },
+    "title": "Попытка засчитана",
+    "description": "Ты пытался. Моё мнение о тебе погибло."
+  },
+  "s5": { "toast": true, "chat": false, "hidden": true }
+}

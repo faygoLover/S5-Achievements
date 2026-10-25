@@ -1,0 +1,8 @@
+{
+  "display": {
+    "icon": { "item": "minecraft:recovery_compass" },
+    "title": "Kept you spinning, huh?",
+    "description": "Снейк? Снейк?! СНЕЙ-Е-ЕЙК!"
+  },
+  "s5": { "toast": true, "chat": false, "hidden": true }
+}

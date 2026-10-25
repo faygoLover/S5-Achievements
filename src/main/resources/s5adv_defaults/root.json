@@ -1,0 +1,12 @@
+{
+  "display": {
+    "icon": { "item": "minecraft:writable_book" },
+    "title": "Департамент",
+    "description": "Достижения сервера «Департамент S5»",
+    "background": "minecraft:textures/block/gray_concrete.png"
+  },
+  "criteria": {
+    "start": { "trigger": "minecraft:tick" }
+  },
+  "s5": { "toast": false, "chat": false, "hidden": false }
+}
